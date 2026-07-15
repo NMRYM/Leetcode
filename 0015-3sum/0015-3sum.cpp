@@ -13,11 +13,11 @@ public:
             int j = i+1;
             int k = nums.size()-1;
             while(j < k){
-                int total = nums[i] + nums[j] + nums[k];
+  
 
-                if(total < 0){
+                if(nums[i] + nums[j] < (nums[k])* -1){
                     j++;
-                }else if(total > 0){
+                }else if(nums[i] + nums[j] >(nums[k])* -1){
                     k--;
                 }else{
                     res.push_back({nums[i],nums[j],nums[k]});
