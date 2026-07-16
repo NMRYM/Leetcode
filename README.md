@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/NMRYM/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NMRYM/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/NMRYM/Leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/NMRYM/Leetcode/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NMRYM/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/NMRYM/Leetcode/tree/master/0075-sort-colors) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NMRYM/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/NMRYM/Leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/NMRYM/Leetcode/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Divide and Conquer
 |  |
 | ------- |
