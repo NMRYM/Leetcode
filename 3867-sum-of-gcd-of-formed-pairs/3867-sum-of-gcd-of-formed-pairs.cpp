@@ -1,11 +1,12 @@
 class Solution {
 public:
     long long gcdSum(vector<int>& nums) {
+        int n = nums.size();
         vector<int> prefixGcd(nums.size(),0);
 
         int maxi = 0;
 
-        for(int i = 0 ; i < nums.size() ; i++){
+        for(int i = 0 ; i < n ; i++){
             if(nums[i] > maxi){
                 maxi = nums[i];
             }
@@ -13,13 +14,10 @@ public:
         }
         sort(prefixGcd.begin(), prefixGcd.end());
 
-        int low = 0, high = nums.size() -1;
         long long sum = 0;
 
-        while(low < high){
-            sum += gcd(prefixGcd[low] , prefixGcd[high]);
-            low++;
-            high--;
+        for (int i = 0; i < n/2; ++i) {
+            sum += gcd(prefixGcd[i], prefixGcd[n - 1 - i]);
         }
         return sum;
     }
