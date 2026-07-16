@@ -14,10 +14,13 @@ public:
         }
         sort(prefixGcd.begin(), prefixGcd.end());
 
+        int low = 0, high = n-1;
         long long sum = 0;
 
-        for (int i = 0; i < n/2; ++i) {
-            sum += gcd(prefixGcd[i], prefixGcd[n - 1 - i]);
+        while(low < high){
+            sum += gcd(prefixGcd[low] , prefixGcd[high]);
+            low++;
+            high--;
         }
         return sum;
     }
