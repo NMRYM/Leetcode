@@ -1,25 +1,21 @@
 class Solution {
 public:
     int passwordStrength(string password) {
+        unordered_set<char> distinct_chars(password.begin(), password.end());
         int strength = 0;
-        vector<int> freq(256,0);
-
-        for(int i =0 ; i < password.length() ; i++){
-            freq[password[i]]++;
-
-            if(freq[password[i]] == 1){
-                if(password[i] - 'a' >=0 && password[i] - 'a' < 26){
-                    strength += 1;
-                }else if(password[i] >='A' && password[i] <= 'Z'){
-                    strength += 2;
-                }else if(password[i] - '0' >= 0 && password[i] -  '0' <=9){
-                    strength += 3;
-                }else{
-                    strength += 5;
-                }
-            }
         
+        for (char c : distinct_chars) {
+            if (islower(c)) {
+                strength += 1;
+            } else if (isupper(c)) {
+                strength += 2;
+            } else if (isdigit(c)) {
+                strength += 3;
+            } else {
+                strength += 5; 
+            }
         }
+        
         return strength;
     }
 };
