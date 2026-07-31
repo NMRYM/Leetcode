@@ -14,16 +14,17 @@ public:
         }
 
         if(unique < 9){
-            return word.length();
+            return word.size();
         }
         sort(freq.rbegin(), freq.rend());
 
         int sum = 0;
 
-        for (int i = 0; i < 26; i++) {
-        if (freq[i] == 0) break;
-        sum += freq[i] * (i / 8 + 1);
-    }
+        for (int i = 0; i < unique; i++) {
+            
+            int multiplier = (i / 8) + 1;
+            sum += freq[i] * multiplier;
+        }
         return sum;
 
     }
