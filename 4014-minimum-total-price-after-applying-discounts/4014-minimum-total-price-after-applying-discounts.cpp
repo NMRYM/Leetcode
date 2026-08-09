@@ -1,4 +1,10 @@
-class Solution {
+
+
+static const auto fast_io = []() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    return 0;
+}();class Solution {
 public:
     double minPrice(vector<int>& prices, vector<int>& discounts) {
         double sum = 0;
