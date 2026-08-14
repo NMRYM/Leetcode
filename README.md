@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NMRYM/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NMRYM/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NMRYM/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/NMRYM/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NMRYM/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/NMRYM/Leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/NMRYM/Leetcode/tree/master/3951-minimum-energy-to-maintain-brightness) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/NMRYM/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/NMRYM/Leetcode/tree/master/1260-shift-2d-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/NMRYM/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/NMRYM/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NMRYM/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Number Theory
 |  |
