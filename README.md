@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NMRYM/Leetcode/tree/master/0002-add-two-numbers) |
+| [0258-add-digits](https://github.com/NMRYM/Leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NMRYM/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/NMRYM/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NMRYM/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/NMRYM/Leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NMRYM/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NMRYM/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NMRYM/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/NMRYM/Leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/NMRYM/Leetcode/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/NMRYM/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NMRYM/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
