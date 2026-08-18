@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NMRYM/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NMRYM/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/NMRYM/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/NMRYM/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NMRYM/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/NMRYM/Leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/NMRYM/Leetcode/tree/master/3951-minimum-energy-to-maintain-brightness) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NMRYM/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NMRYM/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NMRYM/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/NMRYM/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3941-password-strength](https://github.com/NMRYM/Leetcode/tree/master/3941-password-strength) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NMRYM/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Matrix
