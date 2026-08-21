@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/NMRYM/Leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/NMRYM/Leetcode/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NMRYM/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [4024-nearest-available-drone](https://github.com/NMRYM/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NMRYM/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [4024-nearest-available-drone](https://github.com/NMRYM/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Prefix Sum
 |  |
 | ------- |
