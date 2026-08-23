@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/NMRYM/Leetcode/tree/master/0002-add-two-numbers) |
 | [0258-add-digits](https://github.com/NMRYM/Leetcode/tree/master/0258-add-digits) |
+| [1927-sum-game](https://github.com/NMRYM/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NMRYM/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/NMRYM/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/NMRYM/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/NMRYM/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/NMRYM/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NMRYM/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/NMRYM/Leetcode/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NMRYM/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NMRYM/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3884-first-matching-character-from-both-ends](https://github.com/NMRYM/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NMRYM/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/NMRYM/Leetcode/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NMRYM/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/NMRYM/Leetcode/tree/master/0547-number-of-provinces) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/NMRYM/Leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
