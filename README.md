@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/NMRYM/Leetcode/tree/master/0002-add-two-numbers) |
 | [0258-add-digits](https://github.com/NMRYM/Leetcode/tree/master/0258-add-digits) |
+| [0836-rectangle-overlap](https://github.com/NMRYM/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/NMRYM/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NMRYM/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/NMRYM/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -240,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NMRYM/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/NMRYM/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
