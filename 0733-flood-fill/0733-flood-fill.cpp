@@ -2,7 +2,7 @@ class Solution {
 public:
 
 
-    void dfs(int row,  int column, int ini, int nw, vector<vector<int>> &ans, vector<vector<int>> image, vector<int> delrow, vector<int> delcl){
+    void dfs(int row,  int column, int ini, int nw, vector<vector<int>> &ans, vector<vector<int>> &image, vector<int> &delrow, vector<int> &delcl){
 
         ans[row][column] = nw;
         int n = image.size();
