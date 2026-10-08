@@ -1,6 +1,9 @@
 class Solution {
 public:
     int numEnclaves(vector<vector<int>>& grid) {
+
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         queue<pair<int, int>> q;
 
         int n =  grid.size();
