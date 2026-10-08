@@ -8,14 +8,13 @@ public:
 
         int n =  grid.size();
         int m = grid[0].size();
-       vector<vector<int>> vis(n, vector<int>(m,0));
 
 
         for(int i = 0 ; i < n ; i ++){
             for(int j = 0 ; j < m; j++){
                 if((i == 0 || j ==0 || j== m-1 || i ==n-1)&& grid[i][j]==1){
                     q.push({i,j});
-                    vis[i][j] =1;
+                    grid[i][j] =0;
                 }
             }
         }
@@ -33,8 +32,8 @@ public:
                 int nr = row+ delrow[i];
                 int nc = delcl[i]+col;
 
-                if(nr>=0 && nr< n && nc>=0 && nc< m && vis[nr][nc] ==0 && grid[nr][nc]==1){
-                    vis[nr][nc]=1;
+                if(nr>=0 && nr< n && nc>=0 && nc< m && grid[nr][nc]==1){
+                    grid[nr][nc]=0;
                     q.push({nr, nc});
                 }
             }
@@ -44,7 +43,7 @@ public:
 
         for(int i = 0 ; i < n; i++){
             for(int j = 0; j < m ; j++){
-                if(vis[i][j] == 0 && grid[i][j] ==1){
+                if(grid[i][j] ==1){
                     c++;
                 }
             }
