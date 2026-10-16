@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/NMRYM/Leetcode/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NMRYM/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4024-nearest-available-drone](https://github.com/NMRYM/Leetcode/tree/master/4024-nearest-available-drone) |
+| [4062-transform-array-using-pair-operations](https://github.com/NMRYM/Leetcode/tree/master/4062-transform-array-using-pair-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -311,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NMRYM/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Brainteaser
+|  |
+| ------- |
+| [4062-transform-array-using-pair-operations](https://github.com/NMRYM/Leetcode/tree/master/4062-transform-array-using-pair-operations) |
 <!---LeetCode Topics End-->
