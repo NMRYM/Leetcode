@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/NMRYM/Leetcode/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/NMRYM/Leetcode/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NMRYM/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/NMRYM/Leetcode/tree/master/0860-lemonade-change) |
 | [1020-number-of-enclaves](https://github.com/NMRYM/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/NMRYM/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NMRYM/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/NMRYM/Leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/NMRYM/Leetcode/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NMRYM/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/NMRYM/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NMRYM/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
