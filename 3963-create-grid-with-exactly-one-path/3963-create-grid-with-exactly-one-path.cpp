@@ -5,7 +5,7 @@ public:
 for (int i = 0; i < m; i++) {
     string res = "";
     for (int j = 0; j < n; j++) {
-        if (i == 0 || j == n - 1) {
+        if (j == 0 || i == m - 1) {
             res += ".";
         } else {
             res += "#";
