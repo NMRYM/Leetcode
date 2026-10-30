@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/NMRYM/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/NMRYM/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/NMRYM/Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/NMRYM/Leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NMRYM/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/NMRYM/Leetcode/tree/master/0130-surrounded-regions) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NMRYM/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/NMRYM/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/NMRYM/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/NMRYM/Leetcode/tree/master/0130-surrounded-regions) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NMRYM/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/NMRYM/Leetcode/tree/master/0542-01-matrix) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/NMRYM/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/NMRYM/Leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/NMRYM/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/NMRYM/Leetcode/tree/master/0079-word-search) |
 | [0387-first-unique-character-in-a-string](https://github.com/NMRYM/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NMRYM/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/NMRYM/Leetcode/tree/master/1927-sum-game) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/NMRYM/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/NMRYM/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/NMRYM/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/NMRYM/Leetcode/tree/master/0130-surrounded-regions) |
@@ -348,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/NMRYM/Leetcode/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/NMRYM/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
