@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/NMRYM/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/NMRYM/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/NMRYM/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NMRYM/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NMRYM/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NMRYM/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NMRYM/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NMRYM/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/NMRYM/Leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/NMRYM/Leetcode/tree/master/0455-assign-cookies) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NMRYM/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NMRYM/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3884-first-matching-character-from-both-ends](https://github.com/NMRYM/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/NMRYM/Leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/NMRYM/Leetcode/tree/master/0075-sort-colors) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NMRYM/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/NMRYM/Leetcode/tree/master/0455-assign-cookies) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NMRYM/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NMRYM/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NMRYM/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/NMRYM/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NMRYM/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NMRYM/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NMRYM/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/NMRYM/Leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Linked List
 |  |
