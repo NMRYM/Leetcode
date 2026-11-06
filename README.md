@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/NMRYM/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/NMRYM/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/NMRYM/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/NMRYM/Leetcode/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/NMRYM/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NMRYM/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NMRYM/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/NMRYM/Leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/NMRYM/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/NMRYM/Leetcode/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/NMRYM/Leetcode/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/NMRYM/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NMRYM/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/NMRYM/Leetcode/tree/master/1927-sum-game) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NMRYM/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/NMRYM/Leetcode/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/NMRYM/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/NMRYM/Leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/NMRYM/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/NMRYM/Leetcode/tree/master/0547-number-of-provinces) |
@@ -372,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/NMRYM/Leetcode/tree/master/0062-unique-paths) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/NMRYM/Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
