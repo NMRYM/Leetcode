@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NMRYM/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NMRYM/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NMRYM/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3693-climbing-stairs-ii](https://github.com/NMRYM/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NMRYM/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NMRYM/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NMRYM/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/NMRYM/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NMRYM/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/NMRYM/Leetcode/tree/master/0542-01-matrix) |
+| [3693-climbing-stairs-ii](https://github.com/NMRYM/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
 |  |
 | ------- |
